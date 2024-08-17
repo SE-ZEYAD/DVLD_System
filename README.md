@@ -119,15 +119,15 @@ The DVLD System is designed to manage and issue driving licenses, ensuring that 
 ` Personal Photo `
 
 ## License Information:
-• License Number
-• Applicant’s National ID
-• Applicant’s Name
-• Date of Birth
-• License Category
-• Issue Date
-• Expiration Date
-• License Conditions (if any)
-• License Status: New, Lost Replacement, Damaged Replacement, Renewal
+` License Number `
+` Applicant’s National ID `
+` Applicant’s Name `
+` Date of Birth `
+` License Category `
+` Issue Date `
+` Expiration Date `
+` License Conditions (if any) `
+` License Status: New, Lost Replacement, Damaged Replacement, Renewal ` 
 
 ## Test Requirements
 
