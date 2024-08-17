@@ -127,7 +127,7 @@ The DVLD System is designed to manage and issue driving licenses, ensuring that 
 ` Issue Date `
 ` Expiration Date `
 ` License Conditions (if any) `
-` License Status: New, Lost Replacement, Damaged Replacement, Renewal ` 
+` License Status: ` ` New ` ` Lost Replacement ` ` Damaged Replacement ` ` Renewal ` 
 
 ## Test Requirements
 
