@@ -109,14 +109,14 @@ The DVLD System is designed to manage and issue driving licenses, ensuring that 
 • Applicant Verification: Ensures the applicant has no previous application of the same type (not completed).
 
 ## Applicant Information:
-• National ID
-• Full Name
-• Date of Birth
-• Address
-• Phone Number
-• Email
-• Nationality
-• Personal Photo
+` National ID `
+` Full Name `
+` Date of Birth ` 
+` Address `
+` Phone Number `
+` Email `
+` Nationality `
+` Personal Photo `
 
 ## License Information:
 • License Number
