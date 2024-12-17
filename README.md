@@ -5,67 +5,67 @@ The DVLD System is designed to manage and issue driving licenses, ensuring that 
 
 ## Services Provided
 ### 1. Issuance of a New Driving License
-• Description: Allows applicants to apply for a new driving license.
+- [x] Description: Allows applicants to apply for a new driving license.
 
-• Fee: $5 (Application Fee) + License Fee based on category.
+- [x] Fee: $5 (Application Fee) + License Fee based on category.
 
-• License Categories:
+- [x] License Categories:
 
-• Category 1: Small Motorcycles
+- [x] Category 1: Small Motorcycles
 
-• Minimum Age: 18 years
+- [x] Minimum Age: 18 years
 
-• License Fee: $15
+- [x] License Fee: $15
 
-• Validity: 5 years
+- [x] Validity: 5 years
 
-• Category 2: Heavy Motorcycles
+- [x] Category 2: Heavy Motorcycles
 
-• Minimum Age: 21 years
+- [x] Minimum Age: 21 years
 
-• License Fee: $30
+- [x] License Fee: $30
 
-• Validity: 5 years
+- [x] Validity: 5 years
 
-• Category 3: Regular Vehicles (Cars)
+- [x] Category 3: Regular Vehicles (Cars)
 
-• Minimum Age: 18 years
+- [x] Minimum Age: 18 years
 
-• License Fee: $20
+- [x] License Fee: $20
 
-• Validity: 10 years
+- [x] Validity: 10 years
 
-• Category 4: Commercial Vehicles (Taxi/Limousine)
+- [x] Category 4: Commercial Vehicles (Taxi/Limousine)
 
-• Minimum Age: 21 years
+- [x] Minimum Age: 21 years
 
-• License Fee: $200
+- [x] License Fee: $200
 
-• Validity: 10 years
+- [x] Validity: 10 years
 
-• Category 5: Agricultural Vehicles (Tractors)
+- [x] Category 5: Agricultural Vehicles (Tractors)
 
-• Minimum Age: 21 years
+- [x] Minimum Age: 21 years
 
-• License Fee: $50
+- [x] License Fee: $50
 
-• Validity: 10 years
+- [x] Validity: 10 years
 
-• Category 6: Small & Medium Buses
+- [x] Category 6: Small & Medium Buses
 
-• Minimum Age: 21 years
+- [x] Minimum Age: 21 years
 
-• License Fee: $250
+- [x] License Fee: $250
 
-• Validity: 10 years
+- [x] Validity: 10 years
 
-• Category 7: Trucks & Heavy Vehicles
+- [x] Category 7: Trucks & Heavy Vehicles
 
-• Minimum Age: 21 years
+- [x] Minimum Age: 21 years
 
-• License Fee: $300
+- [x] License Fee: $300
 
-• Validity: 10 years
+- [x] Validity: 10 years
 
 ## License Renewal
 • Description: Allows the renewal of an existing driving license.
