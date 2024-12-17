@@ -97,9 +97,8 @@ The DVLD System is designed to manage and issue driving licenses, ensuring that 
 - [x] Fee: $5 (Re-examination Fee) + Test Fee based on category.
 - [x] Conditions: A new appointment must be scheduled manually after failure.
 
-## Application Process
 > [!NOTE]
-> General Information:
+> Application Process:
 
 - [x] Application Number: Unique identifier for each application.
 - [x] Application Date: The date when the application is submitted.
@@ -135,28 +134,28 @@ The DVLD System is designed to manage and issue driving licenses, ensuring that 
 > Test Requirements:
 
 ### 1. Vision Test
-• Description: Medical examination to verify the applicant's visual ability.
-• Fee: $10 (Vision Test Fee)
-• Conditions: Must pass to proceed; failure requires corrective measures (glasses or surgery) and rescheduling.
+- [x] Description: Medical examination to verify the applicant's visual ability.
+- [x] Fee: $10 (Vision Test Fee)
+- [x] Conditions: Must pass to proceed; failure requires corrective measures (glasses or surgery) and rescheduling.
 
 ### 2. Theory Test
-• Description: Written examination on traffic laws and road safety.
-• Fee: $20 (Theory Test Fee)
-• Conditions: Must pass to proceed; failure requires rescheduling with a new fee.
+- [x] Description: Written examination on traffic laws and road safety.
+- [x] Fee: $20 (Theory Test Fee)
+- [x] Conditions: Must pass to proceed; failure requires rescheduling with a new fee.
 
 ### 3. Practical Driving Test
-• Description: Hands-on test to assess the applicant's driving skills.
-• Fee: Based on license category.
-• Conditions: Must pass to obtain the license; failure requires rescheduling with a new fee.
+- [x] Description: Hands-on test to assess the applicant's driving skills.
+- [x] Fee: Based on license category.
+- [x] Conditions: Must pass to obtain the license; failure requires rescheduling with a new fee.
 
 ## System Management
 
 ### 1. User Management:
-• Add User: Associate with a person in the system.
-• Manage Roles & Permissions: Assign appropriate access rights.
-• Audit Logs: Track system activity.
+- [x] Add User: Associate with a person in the system.
+- [x] Manage Roles & Permissions: Assign appropriate access rights.
+- [x] Audit Logs: Track system activity.
 
 ### 2. Reporting & Analytics:
-• License Issuance Report: Track the number and types of licenses issued.
-• Re-examination Statistics: Monitor re-examination requests and pass rates.
-• Revenue Reports: Generate reports on the revenue collected from various services.
+- [x] License Issuance Report: Track the number and types of licenses issued.
+- [x] Re-examination Statistics: Monitor re-examination requests and pass rates.
+- [x] Revenue Reports: Generate reports on the revenue collected from various services.
