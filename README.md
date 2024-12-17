@@ -68,45 +68,45 @@ The DVLD System is designed to manage and issue driving licenses, ensuring that 
 - [x] Validity: 10 years
 
 ## License Renewal
-• Description: Allows the renewal of an existing driving license.
-• Fee: $10 (Renewal Fee) + Vision Test Fee.
-• Conditions: The expired license must be surrendered before renewal.
+- [x] Description: Allows the renewal of an existing driving license.
+- [x] Fee: $10 (Renewal Fee) + Vision Test Fee.
+- [x] Conditions: The expired license must be surrendered before renewal.
 
 ### 2. Replacement of Lost License
-• Description: Issuance of a replacement for a lost license.
-• Fee: $20 (Replacement Fee)
-• Conditions: The system must confirm that the license is not under suspension.
+- [x] Description: Issuance of a replacement for a lost license.
+- [x] Fee: $20 (Replacement Fee)
+- [x] Conditions: The system must confirm that the license is not under suspension.
 
 ### 3. Replacement of Damaged License
-• Description: Issuance of a replacement for a damaged license.
-• Fee: $20 (Replacement Fee)
-• Conditions: The damaged license must be surrendered.
+- [x] Description: Issuance of a replacement for a damaged license.
+- [x] Fee: $20 (Replacement Fee)
+- [x] Conditions: The damaged license must be surrendered.
 
 ### 4. License Reinstatement
-• Description: Reinstates a suspended license after payment of the necessary fines.
-• Fee: $5 (Reinstatement Fee)
-• Conditions: The suspended license must be surrendered for reactivation.
+- [x] Description: Reinstates a suspended license after payment of the necessary fines.
+- [x] Fee: $5 (Reinstatement Fee)
+- [x] Conditions: The suspended license must be surrendered for reactivation.
 
 ### 5. Issuance of International Driving License
-• Description: Issuance of an international driving license.
-• Fee: $20 (International License Fee)
-• Conditions: Available only to holders of valid Category 3 licenses. No existing international license should be active; otherwise, the old license will be canceled.
+- [x] Description: Issuance of an international driving license.
+- [x] Fee: $20 (International License Fee)
+- [x] Conditions: Available only to holders of valid Category 3 licenses. No existing international license should be active; otherwise, the old license will be canceled.
 
 ### 6. Re-examination Service
-• Description: Allows applicants to schedule a re-examination after failing a test.
-• Fee: $5 (Re-examination Fee) + Test Fee based on category.
-• Conditions: A new appointment must be scheduled manually after failure.
+- [x] Description: Allows applicants to schedule a re-examination after failing a test.
+- [x] Fee: $5 (Re-examination Fee) + Test Fee based on category.
+- [x] Conditions: A new appointment must be scheduled manually after failure.
 
 ## Application Process
 -- General Information:
-• Application Number: Unique identifier for each application.
-• Application Date: The date when the application is submitted.
-• Applicant ID: Retrieved using the National ID; if not in the system, the applicant must be added first.
-• Application Type: Based on the selected service.
-• Application Status: New, Canceled, or Completed.
-• Application Fees: Total amount paid for the service.
-• License Category (if applicable): Must be specified for new licenses.
-• Applicant Verification: Ensures the applicant has no previous application of the same type (not completed).
+- [x] Application Number: Unique identifier for each application.
+- [x] Application Date: The date when the application is submitted.
+- [x] Applicant ID: Retrieved using the National ID; if not in the system, the applicant must be added first.
+- [x] Application Type: Based on the selected service.
+- [x] Application Status: New, Canceled, or Completed.
+- [x] Application Fees: Total amount paid for the service.
+- [x] License Category (if applicable): Must be specified for new licenses.
+- [x] Applicant Verification: Ensures the applicant has no previous application of the same type (not completed).
 
 ## Applicant Information:
 ` National ID `
