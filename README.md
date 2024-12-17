@@ -98,7 +98,9 @@ The DVLD System is designed to manage and issue driving licenses, ensuring that 
 - [x] Conditions: A new appointment must be scheduled manually after failure.
 
 ## Application Process
--- General Information:
+> [!NOTE]
+> General Information:
+
 - [x] Application Number: Unique identifier for each application.
 - [x] Application Date: The date when the application is submitted.
 - [x] Applicant ID: Retrieved using the National ID; if not in the system, the applicant must be added first.
@@ -129,7 +131,8 @@ The DVLD System is designed to manage and issue driving licenses, ensuring that 
 ` License Conditions (if any) `
 ` License Status: ` ` New ` ` Lost Replacement ` ` Damaged Replacement ` ` Renewal ` 
 
-## Test Requirements
+> [!NOTE]
+> Test Requirements:
 
 ### 1. Vision Test
 • Description: Medical examination to verify the applicant's visual ability.
