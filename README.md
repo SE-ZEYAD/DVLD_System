@@ -4,7 +4,7 @@
 > System - Documentation
 
 > DATABASE DESIGN
-> ![App Screenshot]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-09-07 211850.png")
+> ![App Screenshot]("DVLD_DATABASE_DIAGRAM.jpg")
 
 
 ## Overview
