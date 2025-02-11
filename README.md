@@ -3,6 +3,10 @@
 > [!IMPORTANT]
 > System - Documentation
 
+> DATABASE DESIGN
+> ![App Screenshot]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-09-07 211850.png")
+
+
 ## Overview
 The DVLD System is designed to manage and issue driving licenses, ensuring that drivers meet the necessary requirements to drive safely. The system will handle various services related to driving licenses, including issuance, renewal, replacement, and international license requests. This document outlines the key features, requirements, and functionalities of the system.
 
