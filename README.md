@@ -4,7 +4,8 @@
 > System - Documentation
 
 > DATABASE DESIGN
-> ![App Screenshot]("DVLD_DATABASE_DIAGRAM.jpg")
+
+> ![App Screenshot]("https://github.com/SE-ZEYAD/DVLD_System/blob/main/DVLD_DATABASE_DIAGRAM.jpg")
 
 
 ## Overview
