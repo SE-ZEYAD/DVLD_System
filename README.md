@@ -5,7 +5,7 @@
 
 > DATABASE DESIGN
 
-> ![App Screenshot]("https://github.com/SE-ZEYAD/DVLD_System/blob/main/DVLD_DATABASE_DIAGRAM.jpg")
+> ![Hosted Image](https://github.com/SE-ZEYAD/DVLD_System/blob/main/DVLD_DATABASE_DIAGRAM.jpg)
 
 
 ## Overview
